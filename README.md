@@ -1,6 +1,8 @@
 # PLreg
 Power Logit Regression for Modeling Bounded Data Use PLreg With (In) R Software
 
+https://www.youtube.com/watch?v=36c0x3SWLeU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
